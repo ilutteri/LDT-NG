@@ -1,0 +1,9 @@
+<header>
+    <h1>{{title}}</h1>
+    <app-boton 
+    color="{{showAddTask ? 'red' : 'darkgreen' }}" 
+    text="{{showAddTask ? 'Cerrar' : 'Agregar Tarea' }}" 
+    (btnClick)="toggleAddTask()" 
+    *ngIf="hasRoute('/')"
+    ></app-boton>
+</header>

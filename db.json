@@ -1,0 +1,34 @@
+{
+  "tasks": [
+    {
+      "id": 1,
+      "text": "Estudiar",
+      "day": "Enero 4 a las 7:00",
+      "reminder": true
+    },
+    {
+      "id": 2,
+      "text": "Trabajar",
+      "day": "Enero 4 a las 10:00",
+      "reminder": true
+    },
+    {
+      "id": 3,
+      "text": "Ensayar",
+      "day": "Diciembre 20 a las 19:00",
+      "reminder": true
+    },
+    {
+      "id": 4,
+      "text": "Cocinar",
+      "day": "Diciembre 20 a las 22:00",
+      "reminder": true
+    },
+    {
+      "id": 5,
+      "text": "Limpiar",
+      "day": "Mañana",
+      "reminder": true
+    }
+  ]
+}
